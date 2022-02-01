@@ -1,12 +1,21 @@
-# cFakeplates
+# cFakeplates V.2
 cFakeplates for fivem server
-## Aide
+
+## New
+- Add Item: fake_plate
+
+## Help
 if need help join the discord
 https://discord.gg/Pf8BFErz3X
 
 ## Contact
 You can either contact me through discord or with twitter
-https://twitter.com/blocdedev
+
+Discord: https://discord.gg/Pf8BFErz3X
+
+Twitter: https://twitter.com/blocdedev
+
+
 
 ## Download & Installation
 
@@ -14,7 +23,7 @@ https://twitter.com/blocdedev
 ```
 cd resources
 cd [esx]
-git clone https://github.com/ChefFivem/cFakeplates
+git clone https://github.com/ChefFivem/esx_advancedltd
 ```
 
 ### Manually
@@ -26,6 +35,12 @@ git clone https://github.com/ChefFivem/cFakeplates
 
 ```
 start cFakeplates
+```
+- Add this in your database:
+```
+INSERT INTO `items` (`name`, `label`, `limit`, `rare`, `can_remove`) VALUES
+    ('fake_plate', 'Fausse plaque', -1, 0, 1)
+;
 ```
 
 By ChefFivem
