@@ -14,7 +14,7 @@ https://twitter.com/blocdedev
 ```
 cd resources
 cd [esx]
-git clone https://github.com/ChefFivem/esx_advancedltd
+git clone https://github.com/ChefFivem/cFakeplates
 ```
 
 ### Manually
