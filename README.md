@@ -16,7 +16,8 @@ Discord: https://discord.gg/Pf8BFErz3X
 Twitter: https://twitter.com/blocdedev
 
 ## Preview
-https://dunb17ur4ymx4.cloudfront.net/packages/images/d919eccc34053af484a4782f9297ba0eeb1cf423.png
+![image](https://user-images.githubusercontent.com/67842030/161610828-8ce92212-1218-4d97-ba3c-446228429aac.png)
+
 
 ## Download & Installation
 
