@@ -47,7 +47,7 @@ INSERT INTO `items` (`name`, `label`, `limit`, `rare`, `can_remove`) VALUES
 
 By ChefFivem
 
-##MIT License
+## MIT License
 
 Copyright (c) 2022 Chef
 
